@@ -59,4 +59,4 @@ A comprehensive **Medical Healthcare Management System** with separate portals f
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/adrs2004/Medical-CareHub.git
+https://github.com/adrs2004/Medical-CareHub.git
